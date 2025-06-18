@@ -15,6 +15,7 @@ The following methods were implemented:
 * Energy score
 * GradNorm
 * FeatureNorm
+* Ensemble method combining ODIN, Energy score, GradNorm and FeatureNorm
 
 ## Structure of the Repo
 This repository includes the following:
