@@ -1,10 +1,5 @@
 # Advanced Out-of-Distribution Detection for Multi-Class Classification
 
-**Final Project for the Course Computer Vision tought at La Sapienza 2025**  
-Name: Janne Rotter  
-Matricula: 2223529  
-Email: rotter.2223529@studenti.uniroma1.it
-
 ## Goal of the project
 This project first trains an Efficient-Net-B0 on the Food-101 datasets using transfer learning. Later on multiple methods for OOD-Detection are implemented and evaluated based on AUROC and FPR95. Additionally, it is investigated wheter model performance significantly influences the performance of these methods. 
 
